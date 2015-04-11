@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Telerik.Sitefinity.Taxonomies.Web.Services;
 using timw255.Sitefinity.RestClient;
+using timw255.Sitefinity.RestClient.Model;
 using timw255.Sitefinity.RestClient.ServiceWrappers.Taxonomies;
 
 namespace timw255.LinqToSitefinity.RequestProcessors.Taxonomies

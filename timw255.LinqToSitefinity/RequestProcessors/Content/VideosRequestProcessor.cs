@@ -3,11 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Telerik.Sitefinity.Libraries.Model;
-using Telerik.Sitefinity.Modules.Blogs.Web.Services;
-using Telerik.Sitefinity.Modules.Libraries.Videos;
-using Telerik.Sitefinity.Modules.Libraries.Web.Services;
 using timw255.Sitefinity.RestClient;
+using timw255.Sitefinity.RestClient.Model;
 using timw255.Sitefinity.RestClient.ServiceWrappers.Content;
 
 namespace timw255.LinqToSitefinity.RequestProcessors
