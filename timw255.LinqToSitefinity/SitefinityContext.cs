@@ -2,17 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
-using Telerik.Sitefinity.Blogs.Model;
-using Telerik.Sitefinity.Modules.Blogs.Web.Services;
-using Telerik.Sitefinity.Modules.Ecommerce.Catalog.Web.Services;
-using Telerik.Sitefinity.Modules.Events.Web.Services;
-using Telerik.Sitefinity.Modules.Forms.Web.Services.Model;
-using Telerik.Sitefinity.Modules.Libraries.Documents;
-using Telerik.Sitefinity.Modules.Libraries.Images;
-using Telerik.Sitefinity.Modules.Libraries.Web.Services;
-using Telerik.Sitefinity.Modules.News.Web.Services;
-using Telerik.Sitefinity.Modules.Pages.Web.Services.Model;
-using Telerik.Sitefinity.Taxonomies.Web.Services;
 using timw255.LinqToSitefinity.Helper;
 using timw255.LinqToSitefinity.RequestProcessors;
 using timw255.LinqToSitefinity.RequestProcessors.Content;
@@ -21,6 +10,7 @@ using timw255.LinqToSitefinity.RequestProcessors.Forms;
 using timw255.LinqToSitefinity.RequestProcessors.Pages;
 using timw255.LinqToSitefinity.RequestProcessors.Taxonomies;
 using timw255.Sitefinity.RestClient;
+using timw255.Sitefinity.RestClient.Model;
 
 namespace timw255.LinqToSitefinity
 {

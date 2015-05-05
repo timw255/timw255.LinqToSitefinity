@@ -8,11 +8,7 @@ namespace timw255.LinqToSitefinity
 {
     public class SitefinityQueryProvider : IQueryProvider
     {
-        public SitefinityContext Context
-        {
-            get;
-            set;
-        }
+        public SitefinityContext Context { get; set; }
 
         public IQueryable CreateQuery(Expression expression)
         {
